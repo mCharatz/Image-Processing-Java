@@ -1,2 +1,2 @@
-# Image-Processing-with-Java
+# Image Processing with Java
 An image processing app created in Java
